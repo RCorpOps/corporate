@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/corporate/static/css/main.88770e66.css",
+    "main.js": "/corporate/static/js/main.48ab1fed.js",
+    "static/js/787.d6c7f8f4.chunk.js": "/corporate/static/js/787.d6c7f8f4.chunk.js",
+    "static/media/dog.png": "/corporate/static/media/dog.733e263fba362a3f77e2.png",
+    "static/media/gang.png": "/corporate/static/media/gang.cc9f02ceb5ac649c995e.png",
+    "static/media/shark.png": "/corporate/static/media/shark.a3658f59cbd69b75d970.png",
+    "static/media/surf.png": "/corporate/static/media/surf.4bd4710b93368d3f0d43.png",
+    "static/media/ia.png": "/corporate/static/media/ia.e4fbbb5f72bea0a400ee.png",
+    "static/media/0.png": "/corporate/static/media/0.a3820082a97b113bb3da.png",
+    "static/media/eco.png": "/corporate/static/media/eco.424569b3f98070d001ac.png",
+    "static/media/coffe.png": "/corporate/static/media/coffe.f177075f37214884c6c0.png",
+    "static/media/camping.png": "/corporate/static/media/camping.d5087cc3083b0c7e277a.png",
+    "static/media/video-1.jpeg": "/corporate/static/media/video-1.31002fffab19ba8d4c0f.jpeg",
+    "static/media/goat.png": "/corporate/static/media/goat.b6bce3492b070bdb5bd0.png",
+    "static/media/moc-2.png": "/corporate/static/media/moc-2.39f28ab787640642500d.png",
+    "static/media/app-shot-4.jpeg": "/corporate/static/media/app-shot-4.929a0368ca0c1e0edb55.jpeg",
+    "static/media/blog-1-1.jpg": "/corporate/static/media/blog-1-1.7a58573e5671d5e50a7a.jpg",
+    "static/media/moc-1.png": "/corporate/static/media/moc-1.b680550d26a9b09baf44.png",
+    "static/media/app-shot-1.jpeg": "/corporate/static/media/app-shot-1.447474061d3ad590116e.jpeg",
+    "static/media/app-shot-5.jpeg": "/corporate/static/media/app-shot-5.8a4fd3861c9bc1abe840.jpeg",
+    "static/media/app-shot-2.jpeg": "/corporate/static/media/app-shot-2.b7921ea7c12687e39991.jpeg",
+    "static/media/task.png": "/corporate/static/media/task.1c90eeb26fb7b0f1bc9b.png",
+    "static/media/presentation.png": "/corporate/static/media/presentation.dd460673f52a13ea1767.png",
+    "static/media/app-shot-3.jpeg": "/corporate/static/media/app-shot-3.ddcc3d82db4ebdc7b975.jpeg",
+    "static/media/RCorp_logo.svg": "/corporate/static/media/RCorp_logo.deb71127b967c21c1e92c455185316aa.svg",
+    "static/media/twitter.svg": "/corporate/static/media/twitter.e23bb17f4489ae01cde586caf41184d0.svg",
+    "index.html": "/corporate/index.html",
+    "static/media/facebook.svg": "/corporate/static/media/facebook.9bedb32c5b858e0128810e24b6c6b39f.svg",
+    "static/media/pinterest.svg": "/corporate/static/media/pinterest.8d6ec8e300622b5aae175734bb4716bb.svg",
+    "static/media/instagram.svg": "/corporate/static/media/instagram.a063749c9b82076cdf0158366474e0ef.svg",
+    "static/media/chain.svg": "/corporate/static/media/chain.f3f464ddf8abea7c86bbfb8d6f2075e3.svg",
+    "static/media/arrow.svg": "/corporate/static/media/arrow.418e1aefa69856c384b7ea9aa789b7ae.svg",
+    "main.88770e66.css.map": "/corporate/static/css/main.88770e66.css.map",
+    "main.48ab1fed.js.map": "/corporate/static/js/main.48ab1fed.js.map",
+    "787.d6c7f8f4.chunk.js.map": "/corporate/static/js/787.d6c7f8f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88770e66.css",
+    "static/js/main.48ab1fed.js"
+  ]
+}

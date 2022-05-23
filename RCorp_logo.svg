@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="159.008" height="127.623" viewBox="0 0 159.008 127.623">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.591" y1="-0.099" x2="0.068" y2="1.06" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#009c41"/>
+      <stop offset="1" stop-color="#f9d92e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.835" y1="-0.017" x2="0.056" y2="1.308" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0463ef"/>
+      <stop offset="1" stop-color="#fa1477"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.039" y1="1.053" x2="1.043" y2="-0.052" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fa1477"/>
+      <stop offset="1" stop-color="#f9d92e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.741" y1="1.1" x2="0.101" y2="-0.123" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0463ef"/>
+      <stop offset="1" stop-color="#2ddaff"/>
+    </linearGradient>
+  </defs>
+  <g id="Icon" transform="translate(-201.296 -100.166)">
+    <g id="Grupo_2" data-name="Grupo 2">
+      <path id="Trazado_26" data-name="Trazado 26" d="M280.8,220.234c-43.909,0-79.5,1.691-79.5,3.778s35.6,3.777,79.5,3.777,79.5-1.69,79.5-3.777S324.708,220.234,280.8,220.234Z" fill-rule="evenodd" opacity="0.1"/>
+      <path id="Trazado_27" data-name="Trazado 27" d="M306.8,100.579c-30.473,2.239-81.841,21.594-105.5,37.826,30.891-11.717,79.546-24.749,108.158-22.186,10.18.911,19.6,5.332,12.782,16.451a95.306,95.306,0,0,1-10.7,13.935C332.419,125.884,340.527,99.616,306.8,100.579Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+      <path id="Trazado_28" data-name="Trazado 28" d="M306.8,100.579c4.3.049,22.753,2.077,14.325,19.147,3.654,2.585,4.936,6.712,1.112,12.944a95.306,95.306,0,0,1-10.7,13.935C332.419,125.884,340.527,99.616,306.8,100.579Z" fill="#003400" fill-rule="evenodd" opacity="0.2"/>
+      <path id="Trazado_29" data-name="Trazado 29" d="M233.377,158.487a106.583,106.583,0,0,0-7.367,24.654c-.442,21.192,15.145,23.86,31.382,9.911a41.512,41.512,0,0,1-9,4.965c-14.427,5.025-8.822-20.883.012-35.348,6.367-10.427,9.855-10.321,15.12-2.69C257,144.686,241.772,141.411,233.377,158.487Z" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_30" data-name="Trazado 30" d="M240.277,195.1c-9.168.521-14.095-9.251-13.785-13.589l-.22.127q-.137.751-.262,1.5c-.442,21.19,15.144,23.858,31.382,9.909a41.512,41.512,0,0,1-9,4.965C243.952,199.562,241.413,198.179,240.277,195.1Z" fill="#1e003d" fill-rule="evenodd" opacity="0.2"/>
+      <path id="Trazado_31" data-name="Trazado 31" d="M233.377,158.487a106.126,106.126,0,0,0-4.618,12.738c2.606-7.6,12.829-16.471,22-12.11,4.95-6.714,8.183-5.769,12.761.864C257,144.686,241.772,141.411,233.377,158.487Z" fill="#020c6a" fill-rule="evenodd" opacity="0.2"/>
+      <path id="Trazado_32" data-name="Trazado 32" d="M324.108,100.326a139.941,139.941,0,0,0-17.309.253c33.728-.963,25.62,25.305,4.739,46.026-12.1,13.325-38.961,36.058-54.146,46.447-15.927,12.452-31.43,9.376-31.382-9.911-1.752,10.495-1.523,20.287,1.534,26.6,17,35.143,105.477-49.732,115.178-66.523C357.846,121.4,349.5,101.626,324.108,100.326Z" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+      <path id="Trazado_33" data-name="Trazado 33" d="M278.89,143.159c-7.409-12.218-22.425-16.062-35.08-1.971-3.982,4.433-7.478,10.556-10.433,17.3,8.988-16.931,22.308-11.575,30.146,1.492q.375.54.76,1.132c24.13,36.94,44.7,67.1,96.021,62.9C310.871,215.5,294.678,169.2,278.89,143.159Z" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+      <path id="Trazado_34" data-name="Trazado 34" d="M276.158,178.813A194.037,194.037,0,0,0,288.879,195.2c4.672-3.507,9.3-7.221,13.78-11-4.169-6.059-7.828-12.3-11.186-18.346C286.488,170.25,281.241,174.687,276.158,178.813Z" fill="#021b8d" fill-rule="evenodd" opacity="0.2"/>
+      <path id="Trazado_35" data-name="Trazado 35" d="M273.594,180.879c4.364,3.728,7.255,13.529,2.082,23.557,4.37-2.81,8.8-5.927,13.2-9.23v0a193.308,193.308,0,0,1-12.722-16.388C275.54,179.315,274.208,180.387,273.594,180.879Z" fill="#9a0038" fill-rule="evenodd" opacity="0.2"/>
+    </g>
+  </g>
+</svg>
