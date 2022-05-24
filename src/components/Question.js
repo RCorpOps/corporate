@@ -4,7 +4,7 @@ const Question = () => {
   return (
     <div
       id="question"
-      className="container px-2 mx-auto flex flex-col items-center"
+      className="container px-6 md:px-2 mx-auto flex flex-col items-center"
     >
       <span className="text-5xl text-black text-center">
         Want to Ask <font className="font-medium mb-11">Something</font> <br />{' '}

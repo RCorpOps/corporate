@@ -13,36 +13,66 @@ import gang from '../assets/gang.png'
 import shark from '../assets/shark.png'
 const Slider = () => {
   const responsive = {
-    0: { items: 1 },
+    0: { items: 3 },
     568: { items: 3 },
     1024: { items: 5 },
   }
 
   const items = [
-    <img src={surf} className="opacity-60 mx-auto hover:opacity-100" alt="" />,
     <img
-      src={brand_}
-      className="opacity-60 mx-auto hover:opacity-100"
+      src={surf}
+      className="opacity-60 mx-auto hover:opacity-100  w-18 md:w-auto"
       alt=""
     />,
-    <img src={eco} className="opacity-60 mx-auto hover:opacity-100" alt="" />,
-    <img src={goat} className="opacity-60 mx-auto hover:opacity-100" alt="" />,
-    <img src={coffe} className="opacity-60 mx-auto hover:opacity-100" alt="" />,
-    <img src={shark} className="opacity-60 mx-auto hover:opacity-100" alt="" />,
-    <img src={dog} className="opacity-60 mx-auto hover:opacity-100" alt="" />,
-    <img src={gang} className="opacity-60 mx-auto hover:opacity-100" alt="" />,
+    <img
+      src={brand_}
+      className="opacity-60 mx-auto hover:opacity-100  w-18 md:w-auto"
+      alt=""
+    />,
+    <img
+      src={eco}
+      className="opacity-60 mx-auto hover:opacity-100  w-18 md:w-auto"
+      alt=""
+    />,
+    <img
+      src={goat}
+      className="opacity-60 mx-auto hover:opacity-100  w-18 md:w-auto"
+      alt=""
+    />,
+    <img
+      src={coffe}
+      className="opacity-60 mx-auto hover:opacity-100  w-18 md:w-auto"
+      alt=""
+    />,
+    <img
+      src={shark}
+      className="opacity-60 mx-auto hover:opacity-100  w-18 md:w-auto"
+      alt=""
+    />,
+    <img
+      src={dog}
+      className="opacity-60 mx-auto hover:opacity-100  w-18 md:w-auto"
+      alt=""
+    />,
+    <img
+      src={gang}
+      className="opacity-60 mx-auto hover:opacity-100  w-18 md:w-auto"
+      alt=""
+    />,
   ]
   return (
-    <div className="container mx-auto px-8 my-32">
-      <AliceCarousel
-        autoPlay="true"
-        infinite="true"
-        autoPlayInterval={3000}
-        disableButtonsControls
-        disableDotsControls
-        items={items}
-        responsive={responsive}
-      />
+    <div className="container  px-8 my-32">
+      <div className="-ml-12 md:ml-0">
+        <AliceCarousel
+          autoPlay="true"
+          infinite="true"
+          autoPlayInterval={3000}
+          disableButtonsControls
+          disableDotsControls
+          items={items}
+          responsive={responsive}
+        />
+      </div>
       <hr className="mt-32" />
     </div>
   )

@@ -4,9 +4,9 @@ import scheme from '../assets/scheme.png'
 import task from '../assets/task.png'
 const Tools = () => {
   return (
-    <div id="tools" className="relative px-2">
+    <div id="tools" className="relative px-6">
       <div className="flex relative flex-col lg:flex-row items-center container mx-auto gap-14 justify-between">
-        <img className="-ml-32 moc2" src={moc} alt="" />
+        <img className="-ml-0 md:-ml-32 moc2 w-56 md:w-auto" src={moc} alt="" />
         <div className="mt-12">
           <img className="w-16 mb-7" src={scheme} alt="" />
           <span className="text-black text-5xl ">

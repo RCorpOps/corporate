@@ -3,7 +3,7 @@ import bg from '../assets/banner-bg.png'
 import moc from '../assets/moc-1.png'
 const Hero = () => {
   return (
-    <div id="home" className="container px-2 mx-auto overflow-hidden">
+    <div id="home" className="container px-6 mx-auto overflow-hidden">
       <div className="mt-32 flex flex-col-reverse sm:flex-row items-center justify-between">
         <div>
           <h1 className="text-5xl sm:text-8xl z-10 font-light text-black tracking-tighter">
@@ -37,7 +37,7 @@ const Hero = () => {
         <div className="bg-circle3 hidden lg:flex"></div>
         <div className="bg-circle4 hidden -z-30 lg:flex"></div>
         <img
-          className="moc flex sm:hidden lg:flex justify-self-end"
+          className="moc hidden sm:hidden lg:flex justify-self-end"
           src={moc}
           alt=""
         />

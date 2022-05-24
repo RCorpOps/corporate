@@ -72,10 +72,10 @@ const Navbar = () => {
         </nav>
         {/*Mobile Nav */}
         <nav
-          className="mobile-nav"
+          className="mobile-nav "
           style={{ display: IsNavOpen ? 'flex' : 'none' }}
         >
-          <ul className="flex flex-col absolute left-0 right-0 top-20 py-7 px-7 bg-dark-blue text-white  items-start justify-between gap-16">
+          <ul className="flex flex-col absolute left-0 right-0 top-14 py-7 px-7 bg-dark-blue text-white  items-start justify-between gap-16">
             <a href="#home" className="hover:text-black  ease-in duration-300">
               <li>Home</li>
             </a>
@@ -102,9 +102,9 @@ const Navbar = () => {
             </a>
             <a
               className="hover:text-black ease-in duration-300"
-              href="#interface"
+              href="#question"
             >
-              <li>News</li>
+              <li>FAQs</li>
             </a>
           </ul>
         </nav>

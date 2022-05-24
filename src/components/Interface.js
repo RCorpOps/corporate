@@ -15,16 +15,16 @@ const Interface = () => {
   }
 
   const items = [
-    <img src={appShot1} alt="" />,
-    <img src={appShot2} alt="" />,
-    <img src={appShot3} alt="" />,
-    <img src={appShot4} alt="" />,
-    <img src={appShot5} alt="" />,
+    <img src={appShot2} className="w-48 md:w-auto" alt="" />,
+    <img src={appShot3} className="w-48 md:w-auto" alt="" />,
+    <img src={appShot1} className="w-48 md:w-auto" alt="" />,
+    <img src={appShot4} className="w-48 md:w-auto" alt="" />,
+    <img src={appShot5} className="w-48 md:w-auto" alt="" />,
   ]
   return (
     <div
       id="interface"
-      className="hidden md:flex relative mx-auto  items-center mb-44 pr-8 flex-col"
+      className="flex md:flex relative mx-auto  items-center mb-44 pr-8 flex-col"
     >
       <span className="mb-32 text-5xl text-black text-center">
         Some RCorp <br /> <font className="font-medium">UI/Ux </font> Examples.

@@ -6,9 +6,9 @@ import instagram from '../assets/instagram.svg'
 import pinterest from '../assets/pinterest.svg'
 const Footer = () => {
   return (
-    <div className="container my-32 mx-auto flex flex-col ">
-      <div className="flex ml-3 flex-wrap justify-center lg:flex-nowrap gap-28">
-        <div className="basis-full flex sm:items-center lg:items-start flex-col lg:basis-auto">
+    <div className="container my-32 mb-8 mx-auto flex flex-col ">
+      <div className="flex ml-3 flex-wrap justify-center items-center lg:flex-nowrap gap-28">
+        <div className="basis-full flex sm:items-center lg:items-start items-center flex-col lg:basis-auto">
           <img className="w-28" src={logo} alt="" />
           <ul className="text-grey flex flex-col mt-10 gap-5">
             {/* <li className="hover:text-pink">
@@ -24,9 +24,9 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className="basis-full sm:basis-auto">
+        <div className="basis-full items-center flex flex-col sm:basis-auto">
           <span className="text-black font-medium text-lg">Explore</span>
-          <ul className="flex flex-col gap-5 text-grey mt-8">
+          <ul className="flex flex-col items-center md:items-start gap-5 text-grey mt-8">
             <li className="hover:text-orange">
               <a href="">About</a>
             </li>
@@ -42,9 +42,9 @@ const Footer = () => {
           </ul>
         </div>
 
-        <div className="basis-full sm:basis-auto">
+        <div className="basis-full items-center flex flex-col  sm:basis-auto">
           <span className="text-black font-medium text-lg">Contact</span>
-          <ul className="flex flex-col gap-5 text-grey mt-8">
+          <ul className="flex flex-col gap-5 items-center md:items-start text-grey mt-8">
             <li className="hover:text-orange">
               <a
                 onClick={() => {
@@ -91,24 +91,7 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className="basis-full sm:basis-auto">
-          <span className="text-black font-medium text-lg"></span>
-          <ul className="flex flex-col gap-5 text-grey mt-8">
-            <li className="hover:text-orange">
-              <a href=""></a>
-            </li>
-            <li className="hover:text-orange">
-              <a href=""></a>
-            </li>
-            <li className="hover:text-orange">
-              <a href=""></a>
-            </li>
-            <li className="hover:text-orange">
-              <a href=""></a>
-            </li>
-          </ul>
-        </div>
-        <div className="flex gap-3 basis-full items lg:basis-auto">
+        <div className="flex gap-3 basis-full items-center md:items-start justify-center md:justify-start lg:basis-auto">
           <div className="social1 w-14 h-14 flex items-center justify-center rounded-full">
             <img className=" w-4" src={facebook} alt="" />
           </div>

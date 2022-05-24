@@ -35,7 +35,7 @@ const Pricing = () => {
           <span className="text-sm text-black mb-12  tracking-wider font-normal">
             BASIC PACK
           </span>
-          <div className="w-5/6 h-0.5 bg-slate-200"></div>
+          <div className="w-5/6 h-0.5 bg-slate-200 "></div>
           <ul className="flex text-grey gap-7 font-thin mb-12 flex-col mt-12 items-center">
             <li>Simple Market Study</li>
             <li>Email Contact 24/7</li>
@@ -56,7 +56,7 @@ const Pricing = () => {
             NO HIDDEN CHARGES !
           </span>
         </div>
-        <div className=" h-px lg:h-150 w-full lg:w-px bg-slate-200"></div>
+        <div className=" h-px lg:h-150 w-full lg:w-px bg-slate-200 my-10 md:my-0"></div>
         <div className="flex flex-col basis-full lg:basis-1/3 items-center">
           <span className="text-6xl tracking-tighter text-pink mb-6">
             {IsMonthly ? '850 €' : '8.500 €'}
@@ -85,7 +85,7 @@ const Pricing = () => {
             NO HIDDEN CHARGES !
           </span>
         </div>
-        <div className="h-px lg:h-150 w-full lg:w-px bg-slate-200"></div>
+        <div className="h-px lg:h-150 w-full lg:w-px bg-slate-200 my-10 md:my-0"></div>
 
         <div className="flex flex-col basis-full lg:basis-1/3 items-center">
           <span className="text-6xl tracking-tighter text-pink mb-6">

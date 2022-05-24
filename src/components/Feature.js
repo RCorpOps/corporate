@@ -7,7 +7,7 @@ import Video from './Video'
 import bg from '../assets/tools-bg.png'
 const Feature = () => {
   return (
-    <div id="feature" className="relative px-2">
+    <div id="feature" className="relative px-6">
       <div className="mt-28 container mx-auto ">
         <h1 className="text-5xl mb-12 text-center">
           Checkout Our

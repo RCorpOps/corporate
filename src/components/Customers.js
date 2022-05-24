@@ -3,7 +3,7 @@ import presentation from '../assets/presentation.png'
 import moc from '../assets/ia.png'
 const Customers = () => {
   return (
-    <div className="bg-yellowish px-2 pt-28">
+    <div className="bg-yellowish px-6 pt-28">
       <div className="container flex flex-col lg:flex-row gap-14 items-center justify-between mx-auto">
         {' '}
         <div>
